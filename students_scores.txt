@@ -1,0 +1,8 @@
+Tom Brady
+99,90,96,95;
+Aaron Rodgers
+100,100,85,91,96;
+Patrick Mahomes
+99,96,95,94,93;
+Joe Burrow
+-1,0;
