@@ -77,7 +77,7 @@ int main()
 	ifstream myFile;
 	myFile.open("students_scores.txt");
 	string studentName;
-    float studentScores[1000]={0};
+    	float studentScores[1000]={0};
 	string line2;
 	int i=0;
 	float min=0;
