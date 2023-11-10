@@ -1,0 +1,1 @@
+This program reads in data from a file named "students_scores.txt" containing fictious student names and scores. The program then prints each student's name and sorted scores as well as the minimum and maximum score.
